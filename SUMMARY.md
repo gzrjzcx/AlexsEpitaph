@@ -4,3 +4,5 @@
 
 ## Others
 
+* [小易的字典](others/xiao-yi-de-zi-dian.md)
+
